@@ -74,9 +74,7 @@ nand(ynand,a,b);
 nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
-*/
-*/
-
+```
 Logic symbol & Truthtable
 
 ![Screenshot 2023-09-13 225906](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/def6714a-f3b2-4c5a-83d7-3c74d0d5ea4a)
