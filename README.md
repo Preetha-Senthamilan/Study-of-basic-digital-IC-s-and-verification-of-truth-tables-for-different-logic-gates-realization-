@@ -57,6 +57,7 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
+
 Program:
 ```
 /*
@@ -74,19 +75,23 @@ nand(ynand,a,b);
 nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
+*/
 ```
+
 Logic symbol & Truthtable
 
-![Screenshot 2023-09-13 225906](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/def6714a-f3b2-4c5a-83d7-3c74d0d5ea4a)
+![image](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/a4564d6f-2d46-43a0-87f0-cd3342b6619b)
 
 
 
 RTL realization
 
-![Screenshot 2023-09-13 224216](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/dbd63188-b5df-46a0-a5d2-c6b6b6934e56)
+![image](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/63e257d7-2379-40dd-90bd-e7ddb3edbafa)
+
 
 Output Waveform
-![Screenshot 2023-09-13 224258](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/1420ef93-92c9-436e-954d-f94bc8060545)
+
+![image](https://github.com/Preetha-Senthamilan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390282/d37403a7-17ed-4a3e-96e6-ad63a25ce4cc)
 
 
 Result:
